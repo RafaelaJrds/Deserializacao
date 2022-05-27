@@ -1,0 +1,453 @@
+[
+  {
+    "Nome": "Heloísa Santos",
+    "DataAdmissao": "2023-11-10T01:45:11.1562973-03:00",
+    "Salario": 1798.8,
+    "Comissao": 2411.04,
+    "Id": "48ea97bf-6d65-4c9a-9ddc-f1ececd50288",
+    "DataInclusao": "2022-05-26T20:29:39.8299367-03:00",
+    "DataAlteracao": "2022-05-26T20:29:39.8299872-03:00"
+  }
+  
+  {
+    "Nome": "Heloísa Silva",
+    "DataAdmissao": "2023-04-06T07:25:28.8441478-03:00",
+    "Salario": 1724.86,
+    "Comissao": 1896.12,
+    "Id": "439c567d-9e07-4223-8a59-74d2451de684",
+    "DataInclusao": "2022-05-26T20:30:18.2002264-03:00",
+    "DataAlteracao": "2022-05-26T20:30:18.200229-03:00"
+  },
+  {
+    "Nome": "Joana Albuquerque",
+    "DataAdmissao": "2023-06-10T07:25:28.7032797-03:00",
+    "Salario": 1859.01,
+    "Comissao": 1527.5,
+    "Id": "64414a3f-0dd4-444c-bbe0-4a5946797e11",
+    "DataInclusao": "2022-05-26T20:30:18.4307923-03:00",
+    "DataAlteracao": "2022-05-26T20:30:18.4307948-03:00"
+  },
+  {
+    "Nome": "Maitê Melo",
+    "DataAdmissao": "2022-09-29T08:31:20.3312411-03:00",
+    "Salario": 1796.31,
+    "Comissao": 2074.37,
+    "Id": "f5684f3e-6556-40cb-a57b-b87f702ab8d8",
+    "DataInclusao": "2022-05-26T20:30:18.6360549-03:00",
+    "DataAlteracao": "2022-05-26T20:30:18.6360571-03:00"
+  },
+  {
+    "Nome": "Alice Moraes",
+    "DataAdmissao": "2024-03-01T19:50:23.2196916-03:00",
+    "Salario": 1761.43,
+    "Comissao": 2519.17,
+    "Id": "15d39046-f2db-4171-9b0d-2aa270157410",
+    "DataInclusao": "2022-05-26T20:30:18.7880118-03:00",
+    "DataAlteracao": "2022-05-26T20:30:18.7880131-03:00"
+  },
+  {
+    "Nome": "Rafaela Carvalho",
+    "DataAdmissao": "2024-05-13T20:24:14.6363383-03:00",
+    "Salario": 1107.29,
+    "Comissao": 1180.86,
+    "Id": "ce371e54-c568-41fc-a54d-640d1e74d095",
+    "DataInclusao": "2022-05-26T20:30:18.9392222-03:00",
+    "DataAlteracao": "2022-05-26T20:30:18.9392236-03:00"
+  },
+  {
+    "Nome": "Liz Carvalho",
+    "DataAdmissao": "2022-11-21T19:50:22.2780565-03:00",
+    "Salario": 1594.17,
+    "Comissao": 2420.47,
+    "Id": "970cadc2-a68c-4a89-bc2f-3d247be683b6",
+    "DataInclusao": "2022-05-26T20:30:19.0991233-03:00",
+    "DataAlteracao": "2022-05-26T20:30:19.0991247-03:00"
+  },
+  {
+    "Nome": "Deneval Braga",
+    "DataAdmissao": "2022-09-11T00:54:52.9389583-03:00",
+    "Salario": 1510.4,
+    "Comissao": 1319.57,
+    "Id": "b8f3463a-a738-40cd-b770-3af6bbb747f0",
+    "DataInclusao": "2022-05-26T20:30:19.2952409-03:00",
+    "DataAlteracao": "2022-05-26T20:30:19.2952423-03:00"
+  },
+  {
+    "Nome": "Isabela Moraes",
+    "DataAdmissao": "2022-06-03T05:35:43.2388642-03:00",
+    "Salario": 2757.41,
+    "Comissao": 1551.69,
+    "Id": "5ed84a0f-ce67-4746-9382-cc7c6b878c49",
+    "DataInclusao": "2022-05-26T20:30:19.471576-03:00",
+    "DataAlteracao": "2022-05-26T20:30:19.4715778-03:00"
+  },
+  {
+    "Nome": "Noah Saraiva",
+    "DataAdmissao": "2022-11-13T15:05:42.2297499-03:00",
+    "Salario": 2718.59,
+    "Comissao": 2758.37,
+    "Id": "9d4912d1-890b-4617-ade3-994918a6e0a2",
+    "DataInclusao": "2022-05-26T20:30:19.6256893-03:00",
+    "DataAlteracao": "2022-05-26T20:30:19.6256907-03:00"
+  },
+  {
+    "Nome": "Vitor Souza",
+    "DataAdmissao": "2022-12-28T05:12:08.9124035-03:00",
+    "Salario": 2763.27,
+    "Comissao": 1001.98,
+    "Id": "24099946-8ea8-4937-9dd3-05a011b1472f",
+    "DataInclusao": "2022-05-26T20:30:19.7771684-03:00",
+    "DataAlteracao": "2022-05-26T20:30:19.7771708-03:00"
+  },
+  {
+    "Nome": "Maria Júlia Franco",
+    "DataAdmissao": "2024-04-11T15:54:05.8547245-03:00",
+    "Salario": 2339.09,
+    "Comissao": 1816.84,
+    "Id": "5eafd94e-8cc8-46ca-a583-fb311d4bc7af",
+    "DataInclusao": "2022-05-26T20:30:19.9502455-03:00",
+    "DataAlteracao": "2022-05-26T20:30:19.9502469-03:00"
+  },
+  {
+    "Nome": "Maria Eduarda Silva",
+    "DataAdmissao": "2023-12-25T15:00:09.1732495-03:00",
+    "Salario": 1192.68,
+    "Comissao": 1537.29,
+    "Id": "9596cc5f-9c30-4212-82df-7805c1091d69",
+    "DataInclusao": "2022-05-26T20:30:20.1262646-03:00",
+    "DataAlteracao": "2022-05-26T20:30:20.1262675-03:00"
+  },
+  {
+    "Nome": "Isabella Reis",
+    "DataAdmissao": "2022-05-28T20:35:48.8663776-03:00",
+    "Salario": 1692.9,
+    "Comissao": 2678.92,
+    "Id": "20b7d53c-0ee1-4e90-9b13-2e51a2eae061",
+    "DataInclusao": "2022-05-26T20:30:20.3028058-03:00",
+    "DataAlteracao": "2022-05-26T20:30:20.3028076-03:00"
+  },
+  {
+    "Nome": "Paula Batista",
+    "DataAdmissao": "2024-03-30T15:49:39.9951639-03:00",
+    "Salario": 1743.79,
+    "Comissao": 1271.21,
+    "Id": "f70e2e53-eb75-480a-bbd2-f7be8b41292a",
+    "DataInclusao": "2022-05-26T20:30:20.4623483-03:00",
+    "DataAlteracao": "2022-05-26T20:30:20.4623497-03:00"
+  },
+  {
+    "Nome": "Isabela Reis",
+    "DataAdmissao": "2023-07-19T19:47:43.9562603-03:00",
+    "Salario": 1384.78,
+    "Comissao": 2099.58,
+    "Id": "c5c1ac88-96a7-4ed5-8c50-39ca50c17d0c",
+    "DataInclusao": "2022-05-26T20:30:20.604904-03:00",
+    "DataAlteracao": "2022-05-26T20:30:20.6049089-03:00"
+  },
+  {
+    "Nome": "Benício Franco",
+    "DataAdmissao": "2023-07-11T06:55:17.9627488-03:00",
+    "Salario": 911.09,
+    "Comissao": 2606.36,
+    "Id": "d2f71131-2116-4d94-afc5-82ea4b822756",
+    "DataInclusao": "2022-05-26T20:30:20.7754579-03:00",
+    "DataAlteracao": "2022-05-26T20:30:20.7754585-03:00"
+  },
+  {
+    "Nome": "Júlio César Xavier",
+    "DataAdmissao": "2023-05-07T15:28:24.8521665-03:00",
+    "Salario": 1064.58,
+    "Comissao": 1104.89,
+    "Id": "e6923471-df8a-49ae-8efa-49dd744dc590",
+    "DataInclusao": "2022-05-26T20:30:20.9389733-03:00",
+    "DataAlteracao": "2022-05-26T20:30:20.9389741-03:00"
+  },
+  {
+    "Nome": "Miguel Saraiva",
+    "DataAdmissao": "2024-06-16T22:36:06.6003961-03:00",
+    "Salario": 2477.04,
+    "Comissao": 1403.46,
+    "Id": "acb6d798-05f4-4f59-86c8-50400ebaf56b",
+    "DataInclusao": "2022-05-26T20:30:21.1029132-03:00",
+    "DataAlteracao": "2022-05-26T20:30:21.1029143-03:00"
+  },
+  {
+    "Nome": "Giovanna Franco",
+    "DataAdmissao": "2023-04-15T16:42:05.2316184-03:00",
+    "Salario": 2463.14,
+    "Comissao": 1706.16,
+    "Id": "00503eb7-1cea-4522-845d-4e7925a659bd",
+    "DataInclusao": "2022-05-26T20:30:21.3174889-03:00",
+    "DataAlteracao": "2022-05-26T20:30:21.3174898-03:00"
+  },
+  {
+    "Nome": "Rebeca Moraes",
+    "DataAdmissao": "2024-04-24T21:49:00.194817-03:00",
+    "Salario": 2410.59,
+    "Comissao": 2857.06,
+    "Id": "eba6d2e6-76ce-4b16-9bfc-80f205b4c451",
+    "DataInclusao": "2022-05-26T20:30:21.4822685-03:00",
+    "DataAlteracao": "2022-05-26T20:30:21.4822693-03:00"
+  },
+  {
+    "Nome": "Sarah Xavier",
+    "DataAdmissao": "2023-01-01T09:18:59.3463274-03:00",
+    "Salario": 2418.77,
+    "Comissao": 2689.27,
+    "Id": "9b066bdc-6f96-4903-ac57-63d4d29729fc",
+    "DataInclusao": "2022-05-26T20:30:21.6791765-03:00",
+    "DataAlteracao": "2022-05-26T20:30:21.6791771-03:00"
+  },
+  {
+    "Nome": "Maria Helena Franco",
+    "DataAdmissao": "2023-06-13T03:17:41.9513058-03:00",
+    "Salario": 1434.69,
+    "Comissao": 1977.91,
+    "Id": "14cf7447-7a8b-463d-815d-0e8cbd43b8c0",
+    "DataInclusao": "2022-05-26T20:30:21.86301-03:00",
+    "DataAlteracao": "2022-05-26T20:30:21.8630107-03:00"
+  },
+  {
+    "Nome": "João Pedro Martins",
+    "DataAdmissao": "2023-04-27T04:10:59.4654339-03:00",
+    "Salario": 2567.28,
+    "Comissao": 1101.25,
+    "Id": "7b349474-abef-466c-b580-4f96eb081a0a",
+    "DataInclusao": "2022-05-26T20:30:22.0966935-03:00",
+    "DataAlteracao": "2022-05-26T20:30:22.0966941-03:00"
+  },
+  {
+    "Nome": "Cecília Carvalho",
+    "DataAdmissao": "2024-05-30T15:19:05.6701767-03:00",
+    "Salario": 2109.25,
+    "Comissao": 2053.84,
+    "Id": "1c9770bc-16d9-4370-b738-79b1d12dc0bf",
+    "DataInclusao": "2022-05-26T20:30:22.5434114-03:00",
+    "DataAlteracao": "2022-05-26T20:30:22.5434122-03:00"
+  },
+  {
+    "Nome": "Lavínia Souza",
+    "DataAdmissao": "2022-07-04T18:43:56.1805287-03:00",
+    "Salario": 2896.21,
+    "Comissao": 2717.44,
+    "Id": "7860acdd-5ec0-42d8-9b63-1115b0b54dea",
+    "DataInclusao": "2022-05-26T20:30:22.920854-03:00",
+    "DataAlteracao": "2022-05-26T20:30:22.9208548-03:00"
+  },
+  {
+    "Nome": "Carlos Xavier",
+    "DataAdmissao": "2024-05-24T16:55:02.5653349-03:00",
+    "Salario": 2107.01,
+    "Comissao": 1624.95,
+    "Id": "9dad5ac2-ace2-4ef4-b90d-166fc6d33c9c",
+    "DataInclusao": "2022-05-26T20:30:23.3082088-03:00",
+    "DataAlteracao": "2022-05-26T20:30:23.3082095-03:00"
+  },
+  {
+    "Nome": "Deneval Silva",
+    "DataAdmissao": "2023-08-13T10:33:44.7429475-03:00",
+    "Salario": 2741.19,
+    "Comissao": 1907.51,
+    "Id": "cae0f247-f832-4be2-9e8e-f667298bf6c5",
+    "DataInclusao": "2022-05-26T20:30:23.6956294-03:00",
+    "DataAlteracao": "2022-05-26T20:30:23.69563-03:00"
+  },
+  {
+    "Nome": "Víctor Barros",
+    "DataAdmissao": "2022-07-02T14:29:32.3203143-03:00",
+    "Salario": 2671.8,
+    "Comissao": 1439.02,
+    "Id": "cf645218-0280-494c-9e41-26ad53e0ea34",
+    "DataInclusao": "2022-05-26T20:30:24.2573781-03:00",
+    "DataAlteracao": "2022-05-26T20:30:24.2573787-03:00"
+  },
+  {
+    "Nome": "Isabel Macedo",
+    "DataAdmissao": "2023-03-27T19:20:05.31849-03:00",
+    "Salario": 2630.18,
+    "Comissao": 1666.52,
+    "Id": "f8378552-7d95-48c5-8efd-698c8ab076f4",
+    "DataInclusao": "2022-05-26T20:30:24.6306775-03:00",
+    "DataAlteracao": "2022-05-26T20:30:24.6306781-03:00"
+  },
+  {
+    "Nome": "Esther Oliveira",
+    "DataAdmissao": "2022-06-16T08:22:27.0421125-03:00",
+    "Salario": 1624.65,
+    "Comissao": 1732.53,
+    "Id": "2014718f-3415-420d-82ba-82d2c0257195",
+    "DataInclusao": "2022-05-26T20:30:25.0303244-03:00",
+    "DataAlteracao": "2022-05-26T20:30:25.0303254-03:00"
+  },
+  {
+    "Nome": "Laura Saraiva",
+    "DataAdmissao": "2023-07-03T05:45:22.0068323-03:00",
+    "Salario": 1542.79,
+    "Comissao": 1658.54,
+    "Id": "bcefd44a-68a6-4936-962a-e5e67961689f",
+    "DataInclusao": "2022-05-26T20:30:25.4248564-03:00",
+    "DataAlteracao": "2022-05-26T20:30:25.424857-03:00"
+  },
+  {
+    "Nome": "Melissa Nogueira",
+    "DataAdmissao": "2022-07-20T04:29:58.9979933-03:00",
+    "Salario": 1591.93,
+    "Comissao": 2222.74,
+    "Id": "954272e5-4492-4672-a428-0722cd6f2ceb",
+    "DataInclusao": "2022-05-26T20:30:25.8168727-03:00",
+    "DataAlteracao": "2022-05-26T20:30:25.8168736-03:00"
+  },
+  {
+    "Nome": "Maria Saraiva",
+    "DataAdmissao": "2022-09-21T19:43:21.4900878-03:00",
+    "Salario": 2115.68,
+    "Comissao": 1090.03,
+    "Id": "36ed0648-04d4-4202-b23d-2975fb913cd3",
+    "DataInclusao": "2022-05-26T20:30:26.05521-03:00",
+    "DataAlteracao": "2022-05-26T20:30:26.0552108-03:00"
+  },
+  {
+    "Nome": "Norberto Batista",
+    "DataAdmissao": "2022-12-13T05:53:11.6777799-03:00",
+    "Salario": 1411.31,
+    "Comissao": 1304.75,
+    "Id": "f232b268-5544-4785-a70f-15dca09c8e7b",
+    "DataInclusao": "2022-05-26T20:30:26.217362-03:00",
+    "DataAlteracao": "2022-05-26T20:30:26.2173625-03:00"
+  },
+  {
+    "Nome": "Ana Clara Costa",
+    "DataAdmissao": "2024-01-13T08:15:05.1034916-03:00",
+    "Salario": 2557.21,
+    "Comissao": 2336.95,
+    "Id": "abfb479a-abf8-474d-93f6-b251b1fcfd1e",
+    "DataInclusao": "2022-05-26T20:30:26.379146-03:00",
+    "DataAlteracao": "2022-05-26T20:30:26.3791468-03:00"
+  },
+  {
+    "Nome": "Giovanna Melo",
+    "DataAdmissao": "2024-01-06T01:24:22.4565632-03:00",
+    "Salario": 1152.41,
+    "Comissao": 2532.06,
+    "Id": "37ec64c5-d45c-4c92-965a-e6f57d48b18d",
+    "DataInclusao": "2022-05-26T20:30:26.5260975-03:00",
+    "DataAlteracao": "2022-05-26T20:30:26.5260989-03:00"
+  },
+  {
+    "Nome": "Isis Macedo",
+    "DataAdmissao": "2022-11-07T04:28:15.3138368-03:00",
+    "Salario": 1388.86,
+    "Comissao": 1560.61,
+    "Id": "0402019f-e39a-4818-8654-e55096f86004",
+    "DataInclusao": "2022-05-26T20:30:26.6604562-03:00",
+    "DataAlteracao": "2022-05-26T20:30:26.6604568-03:00"
+  },
+  {
+    "Nome": "Sarah Franco",
+    "DataAdmissao": "2023-12-26T08:27:56.6085115-03:00",
+    "Salario": 1263.07,
+    "Comissao": 2375.04,
+    "Id": "113d2210-203d-4db9-9b0c-05479ae0a8e8",
+    "DataInclusao": "2022-05-26T20:30:26.9105587-03:00",
+    "DataAlteracao": "2022-05-26T20:30:26.9105593-03:00"
+  },
+  {
+    "Nome": "Liz Pereira",
+    "DataAdmissao": "2022-11-11T04:30:29.8079593-03:00",
+    "Salario": 1507.69,
+    "Comissao": 1044.3,
+    "Id": "7c950361-edae-44fc-ac54-8ca4ceb7fd37",
+    "DataInclusao": "2022-05-26T20:30:27.0865788-03:00",
+    "DataAlteracao": "2022-05-26T20:30:27.0865793-03:00"
+  },
+  {
+    "Nome": "Lara Pereira",
+    "DataAdmissao": "2024-03-30T19:41:47.9814416-03:00",
+    "Salario": 2287.02,
+    "Comissao": 2567.46,
+    "Id": "f23b8fad-c0a9-4c82-b9f5-9f2fd87ba093",
+    "DataInclusao": "2022-05-26T20:30:27.2819391-03:00",
+    "DataAlteracao": "2022-05-26T20:30:27.2819396-03:00"
+  },
+  {
+    "Nome": "Célia Moreira",
+    "DataAdmissao": "2023-03-10T05:27:41.2852473-03:00",
+    "Salario": 1622.89,
+    "Comissao": 1413.36,
+    "Id": "93a2032b-6f44-4437-bab8-c5010fb1bc6b",
+    "DataInclusao": "2022-05-26T20:30:27.4602696-03:00",
+    "DataAlteracao": "2022-05-26T20:30:27.4602711-03:00"
+  },
+  {
+    "Nome": "Raul Carvalho",
+    "DataAdmissao": "2023-01-18T17:49:39.3025293-03:00",
+    "Salario": 2563.13,
+    "Comissao": 946.67,
+    "Id": "9a4af5e8-7604-46c6-ba1a-f911c649da59",
+    "DataInclusao": "2022-05-26T20:30:27.6049639-03:00",
+    "DataAlteracao": "2022-05-26T20:30:27.604965-03:00"
+  },
+  {
+    "Nome": "Júlio César Saraiva",
+    "DataAdmissao": "2022-12-09T00:49:20.7713013-03:00",
+    "Salario": 1686.3,
+    "Comissao": 2419.18,
+    "Id": "c0c685ce-5bee-4b15-b816-e5680e5f12bb",
+    "DataInclusao": "2022-05-26T20:30:27.8269945-03:00",
+    "DataAlteracao": "2022-05-26T20:30:27.8269951-03:00"
+  },
+  {
+    "Nome": "César Nogueira",
+    "DataAdmissao": "2023-06-21T14:33:19.5481788-03:00",
+    "Salario": 1295.0,
+    "Comissao": 1167.09,
+    "Id": "4cb3d2e9-bd52-4e2f-9113-80fee3b3f324",
+    "DataInclusao": "2022-05-26T20:30:28.0350102-03:00",
+    "DataAlteracao": "2022-05-26T20:30:28.0350108-03:00"
+  },
+  {
+    "Nome": "Dalila Moreira",
+    "DataAdmissao": "2023-04-26T17:22:35.9526347-03:00",
+    "Salario": 2591.69,
+    "Comissao": 1153.85,
+    "Id": "5744bf09-1c16-4dae-a3a8-7302e06267f8",
+    "DataInclusao": "2022-05-26T20:30:28.217861-03:00",
+    "DataAlteracao": "2022-05-26T20:30:28.2178616-03:00"
+  },
+  {
+    "Nome": "Lara Moreira",
+    "DataAdmissao": "2024-03-25T19:31:22.0460659-03:00",
+    "Salario": 1840.2,
+    "Comissao": 2601.25,
+    "Id": "94aeaf19-a459-4a39-9b88-5183e9c293c6",
+    "DataInclusao": "2022-05-26T20:30:28.4058613-03:00",
+    "DataAlteracao": "2022-05-26T20:30:28.4058622-03:00"
+  },
+  {
+    "Nome": "Murilo Moraes",
+    "DataAdmissao": "2022-07-09T08:35:29.420022-03:00",
+    "Salario": 1194.07,
+    "Comissao": 2610.99,
+    "Id": "5071c00e-18ed-4afa-87b7-ad76300044f4",
+    "DataInclusao": "2022-05-26T20:30:28.596641-03:00",
+    "DataAlteracao": "2022-05-26T20:30:28.5966416-03:00"
+  },
+  {
+    "Nome": "Yasmin Macedo",
+    "DataAdmissao": "2023-01-24T01:12:02.1729243-03:00",
+    "Salario": 2364.78,
+    "Comissao": 1876.36,
+    "Id": "3f6e38bd-5839-4f2c-be2b-63dbdb18b8ea",
+    "DataInclusao": "2022-05-26T20:30:28.7737704-03:00",
+    "DataAlteracao": "2022-05-26T20:30:28.7737709-03:00"
+  },
+  {
+    "Nome": "Gael Oliveira",
+    "DataAdmissao": "2023-12-09T14:48:16.083324-03:00",
+    "Salario": 1785.44,
+    "Comissao": 1517.0,
+    "Id": "445dcc3a-608c-42f6-b9a9-a08211830d1d",
+    "DataInclusao": "2022-05-26T20:30:28.9615862-03:00",
+    "DataAlteracao": "2022-05-26T20:30:28.9615868-03:00"
+  }
+]
